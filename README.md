@@ -2,6 +2,7 @@
 
 Through the vehicle of holistic and quality education, Sandhi - The Connect offers unique opportunities to underserved girls.
 
+---
 
 ## Problem
 
@@ -21,7 +22,7 @@ While government schools have been promised a multitudinous array of excellent f
 
 There is also longstanding neglect, insufficient financing and accountability, and a lack of motivation among teachers to pay special attention to children from lower castes.
  
- 
+ ---
  
  
 ## Solution
